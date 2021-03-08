@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gustavo Baselli A. on Gustavo Baselli - Taller Producto 2021</title>
+    <link>https://gbasellia.github.io/</link>
+    <description>Recent content in Gustavo Baselli A. on Gustavo Baselli - Taller Producto 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://gbasellia.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primer post</title>
+      <link>https://gbasellia.github.io/docs/primerpost/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://gbasellia.github.io/docs/primerpost/</guid>
+      <description>Contenido de mi primer post en con Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Primer post</title>
+      <link>https://gbasellia.github.io/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://gbasellia.github.io/docs/markdown/</guid>
+      <description>Contenido primer post ccon Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo Shortcodes</title>
+      <link>https://gbasellia.github.io/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://gbasellia.github.io/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
+      <link>https://gbasellia.github.io/docs/markdown-copy/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://gbasellia.github.io/docs/markdown-copy/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+  </channel>
+</rss>
